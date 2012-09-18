@@ -1,0 +1,2 @@
+plugins-access-solr
+===================
